@@ -1,6 +1,8 @@
-# taco
+# team-taco
 
-A new Flutter project.
+This is a single-screen android application made using Stateless Widgets in Flutter for the Flutter Festivals 2022.
+
+It is a team portfolio based on our team name - taco.
 
 ![WhatsApp Image 2022-03-01 at 22 53 55](https://user-images.githubusercontent.com/89238834/156226252-f7a2b30c-b8db-4eed-9c1b-91de266d2b28.jpeg)
 
@@ -13,15 +15,3 @@ A new Flutter project.
 
 ![WhatsApp Image 2022-03-01 at 22 53 55 (4)](https://user-images.githubusercontent.com/89238834/156226301-142a7737-a6c0-4f20-b255-3c00de73b236.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
