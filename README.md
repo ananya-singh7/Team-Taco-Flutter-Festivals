@@ -2,7 +2,7 @@
 
 This is a Single-Screen Android Application made using Stateless Widgets in Flutter for the Flutter Festivals 2022.
 
-It is a 'team portfolio' based on our team name - taco.
+It is a 'team portfolio' based on our team name in the competition - taco.
 
 ![WhatsApp Image 2022-03-01 at 22 53 55](https://user-images.githubusercontent.com/89238834/156226252-f7a2b30c-b8db-4eed-9c1b-91de266d2b28.jpeg)
 
